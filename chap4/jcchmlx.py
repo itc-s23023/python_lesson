@@ -1,0 +1,8 @@
+result_a = int("110")
+result_b = int(20.54)
+result_c = int("16.4")
+result_d = int(99)
+print(result_a)
+print(result_b)
+print(result_c)
+print(result_d)
